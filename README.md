@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&text=Jo%C3%A3o%20H%C3%A9lio&fontColor=00FF41&fontAlign=50&fontAlignY=35&desc=Estudante%20de%20Ci%C3%AAncia%20de%20Dados&descAlignY=55&descAlign=50&animation=fadeIn&height=200" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+H%C3%A9lio;Estudante+de+Ci%C3%AAncia+de+Dados;Python+%7C+SQL+%7C+Machine+Learning;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
+</p>
+
 # 👋 João Hélio
 
 **`Estudante de Ciência de Dados`**
