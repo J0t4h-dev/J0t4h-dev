@@ -10,7 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=J0t4h-dev&label=Visualiza%C3%A7%C3%B5es&color=blue&style=for-the-badge" />
 </p>
 
-# 👋 João Hélio
+# 👋<img width="300" height="169" alt="Suggestion" src="https://github.com/user-attachments/assets/773e8865-e7f8-4107-826b-3d23c2328cd5" />
+ João Hélio
 
 **`Estudante de Ciência de Dados`**
 
