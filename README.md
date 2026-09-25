@@ -10,9 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=J0t4h-dev&label=Visualiza%C3%A7%C3%B5es&color=blue&style=for-the-badge" />
 </p>
 
-# 🖖 João Hélio
-
-**`Estudante de Ciência de Dados`**
+---
 
 Me chamo João Hélio da Silva Almeida, curso Ciência de Dados na Unifecaf e trabalho atualmente na Raia Drogasil. Estou construindo minha trajetória em dados, com foco em Python, SQL e Business Intelligence — e um interesse especial em Machine Learning e Inteligência Artificial. Sigo estudando, errando, corrigindo e aprendendo um pouco mais a cada dia.
 
